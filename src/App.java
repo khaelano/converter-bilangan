@@ -57,6 +57,7 @@ public class App {
                     break;
             }
             System.out.printf("Hasil konversi adalah: %s\n", hasilStr);
+            S.close();
         }
     }
 
