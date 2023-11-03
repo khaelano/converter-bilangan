@@ -9,4 +9,4 @@ Kelas   : TIF-E
 
 
 
-link video penjelasan algoritma: 
+link video penjelasan algoritma: <https://youtu.be/uL7Zh5xJql4>
